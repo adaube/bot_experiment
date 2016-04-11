@@ -1,0 +1,27 @@
+{
+  "name": "bot_experiment",
+  "version": "1.0.0",
+  "description": "attempt #1 at building bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaube/bot_experiment.git"
+  },
+  "keywords": [
+    "bot",
+    "ai"
+  ],
+  "author": "adam daube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaube/bot_experiment.git/issues"
+  },
+  "homepage": "https://github.com/adaube/bot_experiment.git#readme",
+  "dependencies": {
+    "botbuilder": "^0.8.0",
+    "restify": "^4.0.4"
+  }
+}
